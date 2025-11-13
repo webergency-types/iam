@@ -1,0 +1,20 @@
+{
+    "name": "@webergency-types/iam",
+    "version": "0.0.2",
+    "description": "",
+    "author": "radixxko",
+    "types": "types.d.ts",
+    "files": [
+        "types.d.ts"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/webergency-types/iam.git"
+    },
+    "bugs": {
+        "url": "https://github.com/webergency-types/iam/issues"
+    },
+    "dependencies": {
+        "@webergency-types/base": "0.0.5"
+    }
+}
